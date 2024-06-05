@@ -1,6 +1,13 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*-
 
+"""
+Скрипт проверки формирования контрольной сумм файла в слайсере.
+@author: Шовкат Кудратов (shah.typhoon@gmail.com)
+@license: MIT
+@date: 04.06.2024
+"""
+
 import hashlib
 import os
 import sys
