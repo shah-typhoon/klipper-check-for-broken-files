@@ -108,7 +108,7 @@ test_cube_f12f034bb0f602c5f66d77228d841476.gcode
 
 В конце добавьте в стартовый GCODE принтера самой первой строкой макрос CHECK_BROKEN
 
- ![](images/printer-config.jpg)
+ ![](images/printer-config.png)
 
 ### Установка и настройка файла конфигурации checkbroken.cfg
 
